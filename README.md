@@ -6,7 +6,7 @@
 
 -[EX01-01](EX01_01_加法器.ipynb)
 
--[EX01-02](EX01-02-BMI計算.ipynb)
+-[EX01-02](EX01_02_BMI計算.ipynb)
 
 -EX01-03
 
