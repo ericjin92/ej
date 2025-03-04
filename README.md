@@ -19,3 +19,4 @@
 - [EX01-07](EX01_07美食資訊查詢.ipynb)
 
 **02 Web Crawler**
+- [EX02-01](EX02_01MyChatbot.ipynb)
