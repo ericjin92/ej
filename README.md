@@ -23,4 +23,4 @@
 
 - [EX02-02](EX02_02高雄紅橘線捷運車站位置查詢.ipynb)
 
-- [EX02-03](EX02_03Yahoo新聞存儲Google試算表.ipynb)
+- [EX02-03](EX02_03Yahoo新聞儲存Google試算表.ipynb)
