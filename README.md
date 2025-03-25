@@ -26,3 +26,5 @@
 - [EX02-03](EX02_03Yahoo新聞儲存Google試算表.ipynb)
 
 - [EX02-04](EX02_04Download_Pokemon_Images.ipynb)
+
+- [EX02-05](EX02_05PTT_Gossiping.ipynb)
