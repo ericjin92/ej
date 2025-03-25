@@ -28,3 +28,5 @@
 - [EX02-04](EX02_04Download_Pokemon_Images.ipynb)
 
 - [EX02-05](EX02_05PTT_Gossiping.ipynb)
+
+- [Ex02-06](EX02_06開眼電影.ipynb)
