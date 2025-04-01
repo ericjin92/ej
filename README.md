@@ -29,4 +29,6 @@
 
 - [EX02-05](EX02_05PTT_Gossiping.ipynb)
 
-- [Ex02-06](EX02_06開眼電影.ipynb)
+- [EX02-06](EX02_06開眼電影.ipynb)
+
+- [EX02-07](EX02_07KKDay.ipynb)
