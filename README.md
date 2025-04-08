@@ -19,6 +19,7 @@
 - [EX01-07](EX01_07美食資訊查詢.ipynb)
 
 **02 Web Crawler**
+
 - [EX02-01](EX02_01MyChatbot.ipynb)
 
 - [EX02-02](EX02_02高雄紅橘線捷運車站位置查詢.ipynb)
@@ -32,3 +33,6 @@
 - [EX02-06](EX02_06開眼電影.ipynb)
 
 - [EX02-07](EX02_07KKDay.ipynb)
+
+**03 Data Analysis**
+
