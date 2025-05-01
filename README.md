@@ -34,7 +34,7 @@
 
 - [EX02-07](EX02_07KKDay.ipynb)
 
-- [HW02](Steam_熱門遊戲排行榜與價格資訊蒐集實作.ipynb)
+- [Steam_熱門遊戲排行榜與價格資訊蒐集實作](Steam_熱門遊戲排行榜與價格資訊蒐集實作.ipynb)
 
 **03 Data Analysis**
 
