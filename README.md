@@ -59,3 +59,5 @@
 - [EX05-01](EX05_01EchoBot.ipynb)
 
 - [EX05-02](EX05_02Ask_Gemini.ipynb)
+
+- [EX05-03](EX05_03Reply_Multi_type_Messages.ipynb)
